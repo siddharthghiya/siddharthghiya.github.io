@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/ 
+  # - title: "Teaching"
+  #   url: /teaching/ 
     
   - title: "Portfolio"
     url: https://docs.google.com/presentation/d/1TL_vooJGAojoRWu6RPS9lAI_QVYXf5qqTpHgAoqzAuY/edit#slide=id.gc6f80d1ff_0_0
@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/188wpjGTJGG2CX1PgjGYQ0RDSw0UHlGYj/view?usp=sharing
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
