@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from the Masters in Mechanical Engineering (Research) program at Carnegie Mellon University. I was a Graduate Assistant at the Advanced Agent Robotics Technology Lab, and was advised by Prof. Katia Sycara. I am broadly interested in the application to deep reinforcment learning algorithms to multi-agent syatems. I have also taken courses and have done projets in the areas of path planning and controls. Before coming to CMU, I did my undergraduate studies at Thapar University, India.
+Hi, I am Siddharth! I completed my Master's in Mechanical Engineering at Carnegie Mellon University in May 2020. During my Master's, I worked with Dr.Katia Sycara at the Advanced Agent Robotics Lab. While at CMU, the focus of my research was on the application of deep reinforcement learning algorithms to multi-agent systems. My research interests are in the fields of multi-agent systems, deep reinforcement learning, deep learning, machine learning, and path planning. Before my Master's at CMU, I completed my undergrad in Mechanical Engineering at Thapar University, Patiala. 
