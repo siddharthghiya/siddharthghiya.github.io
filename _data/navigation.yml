@@ -7,13 +7,13 @@ main:
     url: /teaching/ 
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://docs.google.com/presentation/d/1TL_vooJGAojoRWu6RPS9lAI_QVYXf5qqTpHgAoqzAuY/edit#slide=id.gc6f80d1ff_0_0
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/drive/u/0/folders/1dvm3hhC-e0IRXJudBd1T8y2oSvQvk_j4
     
   - title: "Guide"
     url: /markdown/
