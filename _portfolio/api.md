@@ -8,3 +8,8 @@ collection: portfolio
 * Make an agent learn policies that help it identify the kind of opposite agent in the environment by observing the reaction of the opposite agent to the learned policy.
 * Trained an LSTM based classifier to identify the type of the opposite agent using state trajectories and policy using Proximal Policy Optimization with the loss of the classifier as a reward.
 * In the proposed toy environment, the agent was able to learn policies to correctly identify the kind of the opposite agent in the environment with an accuracy of 91%.
+
+[link](https://drive.google.com/file/d/1Qe2UHwZfNhChEc9JBpAchXBfpSkOUZZn/view?usp=sharing "Technical Report")
+[link](https://drive.google.com/file/d/1UVbgkMb27mf0fzUyNAEfaOzIQEnaigr9/view?usp=sharing "Presentation")
+[link](https://www.youtube.com/watch?time_continue=1&v=6Y5fpdrQifA&feature=emb_logo "Video")
+
