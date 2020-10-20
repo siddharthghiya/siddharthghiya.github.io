@@ -1,6 +1,6 @@
 ---
 title: "Agent Probing Interaction Policy"
-excerpt: "<br/><img src='/images/api/architecture.png' height = '200' width='200'>"
+excerpt: "<img src='/images/api/architecture.png' height = '200' width='200'>"
 collection: portfolio
 ---
 

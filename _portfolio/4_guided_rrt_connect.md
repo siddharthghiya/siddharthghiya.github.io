@@ -1,6 +1,6 @@
 ---
 title: "Guided RRT Connect"
-excerpt: "<br/><img src='/images/guided_rrt_connect/visualiser.png' height = '200' width='200'>"
+excerpt: "<img src='/images/guided_rrt_connect/visualiser.png' height = '200' width='200'>"
 collection: portfolio
 ---
 

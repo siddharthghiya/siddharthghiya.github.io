@@ -1,6 +1,6 @@
 ---
 title: "Attention-based End-to-End Speech-to-Text Deep Neural Network"
-excerpt: "<br/><img src='/images/deep_learning_hw4p2/network_architecture.png' height = '200' width='200'>"
+excerpt: "<img src='/images/deep_learning_hw4p2/network_architecture.png' height = '200' width='200'>"
 collection: portfolio
 ---
 
