@@ -1,6 +1,6 @@
 ---
 title: "Cascading Convolutional Neural Network"
-excerpt: "<img src='/images/cascor/network_architecture.png' height = '200' width='200'>"
+excerpt: "<br/><img src='/images/cascor/network_architecture.png' height = '200' width='200'>"
 collection: portfolio
 ---
 
