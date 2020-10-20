@@ -1,6 +1,6 @@
 ---
 title: "Cascading Convolutional Neural Network"
-excerpt: "<img src="/images/cascor/network_architecture.png" height="50" width="50">"
+excerpt: "<br/><img src='/images/cascor/network_architecture.png'>"
 collection: portfolio
 ---
 
@@ -11,3 +11,4 @@ collection: portfolio
 [Technical Report](https://drive.google.com/file/d/1UzL-2oclYckpPHrDIGeB-kOXJkly0VXg/view?usp=sharing "Technical Report")
 [Presentation](https://drive.google.com/file/d/1FScIsGvH8RmUmLHE0XfUDWYJdY89WYYv/view?usp=sharing "Presentation")
 [Video](https://www.youtube.com/watch?v=dBDZ6R4_IhE "Video")
+
