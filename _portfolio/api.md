@@ -4,6 +4,7 @@ excerpt: "<br/><img src='/images/api/architecture.png' height = '200' width='200
 collection: portfolio
 ---
 
+<img src="/images/api/architecture.png">
 * Proposed a novel approach to solve the problem of opponent modeling in multi-agent systems.
 * Make an agent learn policies that help it identify the kind of opposite agent in the environment by observing the reaction of the opposite agent to the learned policy.
 * Trained an LSTM based classifier to identify the type of the opposite agent using state trajectories and policy using Proximal Policy Optimization with the loss of the classifier as a reward.
