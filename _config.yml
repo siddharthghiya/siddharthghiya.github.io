@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Ghiya"
 title_separator          : "-"
 name                     : &name "Siddharth Ghiya"
-description              : &description "Robotics and Machine Learning Engineer, Offworld AI"
+description              : &description "Robotics and Machine Learning Engineer, Offworld"
 url                      : https://siddharthghiya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddharthghiya/siddharthghiya.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Siddharth Ghiya"
   avatar           : "profile.png"
   bio              : "Robotics and Machine Learning Engineer"
-  location         : "Pasadena, CA"
   employer         : "Offworld"
+  location         : "Pasadena, CA"
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=gwP2QFQAAAAJ&hl=en"
   email            : "siddharthghiya@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Siddharth_Ghiya2"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
