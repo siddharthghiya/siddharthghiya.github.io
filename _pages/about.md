@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Siddharth! I am currently working as a Machine Learning Research Scientist at Cognitiv.ai, where I am investigating the use of reinforcement learning to online bidding for digital advertising.
+Hi, I am Siddharth! I am currently working as a Machine Learning Research Scientist at Cognitiv.ai, where I am investigating the application of reinforcement learning to online bidding for digital advertising.
 
 I completed my Master's in Mechanical Engineering from Carnegie Mellon University in May 2020. During my Master's, I worked with Dr. Katia Sycara at the Advanced Agent Robotics Lab. While at CMU, the focus of my research was on the application of deep reinforcement learning algorithms to multi-agent systems. Before my Master's at CMU, I completed my undergrad in Mechanical Engineering from Thapar University, Patiala, India.
 
